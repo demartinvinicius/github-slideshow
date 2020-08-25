@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It's always good to be healthy!
 Use the left arrow to go back!
